@@ -303,6 +303,16 @@ This system can be extended for:
 - Air quality & smoke monitoring systems
 
 ---
+## 📸 Project Screenshots
+
+### Dashboard UI
+<img width="100%" src="images/your-image-name-1.jpg" />
+
+### Risk Analysis View
+<img width="100%" src="images/your-image-name-2.jpg" />
+
+### Prediction Visualization
+<img width="100%" src="images/your-image-name-3.jpg" />
 
 # 🔮 Future Improvements
 
