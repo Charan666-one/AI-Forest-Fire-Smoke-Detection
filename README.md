@@ -306,7 +306,7 @@ This system can be extended for:
 ## 📸 Project Screenshots
 
 ### Dashboard UI
-<img width="100%" src="images/your-image-name-1.jpg" />
+<img width="100%" src="https://github.com/Charan666-one/AI-Forest-Fire-Smoke-Detection/blob/main/PHOTO-2026-05-19-18-42-14.jpg?raw=true" />
 
 ### Risk Analysis View
 <img width="100%" src="images/your-image-name-2.jpg" />
